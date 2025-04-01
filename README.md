@@ -1,4 +1,4 @@
-### Hello! My name is Gabriel Henrique 🖐
+### Hello! My name is João Rafael 🖐
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielcnovaesdev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-costa-novaes-b45b091a4/)
@@ -6,10 +6,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=GabrielCNovaesDev&show_icons=true&theme=tokyonight&card_width=400" alt="Gabriel's GitHub stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jotaerri17&show_icons=true&theme=tokyonight&card_width=400" alt="Jotaerri17 GitHub stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCNovaesDev&layout=compact&theme=tokyonight&card_width=400" alt="Top Langs"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotaerri17&layout=compact&theme=tokyonight&card_width=400" alt="Top Langs"/>
     </td>
   </tr>
 </table>
