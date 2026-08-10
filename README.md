@@ -1,8 +1,6 @@
 # João Rafael — Desenvolvedor
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=João%20Rafael&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+
 
 <p align="center">
   <strong>Desenvolvedor Full Stack</strong>
