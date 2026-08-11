@@ -24,7 +24,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor com foco na criação de aplicações web modernas, buscando combinar **boas práticas de desenvolvimento, arquitetura organizada, segurança e experiência do usuário**.
+Sou desenvolvedor com foco na criação de aplicações web, buscando combinar **boas práticas de desenvolvimento, arquitetura organizada, segurança e experiência do usuário**.
 
 Tenho experiência trabalhando com diferentes tecnologias no ecossistema **Full Stack**, desde desenvolvimento de interfaces até construção de APIs e aplicações backend.
 
@@ -32,33 +32,5 @@ Meu objetivo é transformar ideias em produtos funcionais, escaláveis e bem est
 
 ---
 
-## Tecnologias
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=next,ts,js,tailwind" />
-</p>
-
-| Tecnologia   | Uso                      |
-| ------------ | ------------------------ |
-| Next.js      | Aplicações web e SSR     |
-| TypeScript   | Desenvolvimento tipado   |
-| JavaScript   | Desenvolvimento web      |
-| Tailwind CSS | Interfaces e estilização |
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,fastapi,python,java,spring" />
-</p>
-
-| Tecnologia | Uso                             |
-| ---------- | ------------------------------- |
-| Laravel    | APIs e aplicações web           |
-| Node.js    | APIs e aplicações backend       |
-| Fastify    | APIs de alta performance        |
-| Python     | Backend, automação e aplicações |
-| Java       | Desenvolvimento backend         |
-| Spring     | APIs e aplicações Java          |
 
